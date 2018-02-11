@@ -7,3 +7,5 @@ Deploying Metabase on Google App Engine.
 4) Create your App >gcloud app create
 5) Deploy your App >gcloud app deploy
 6) Browse to App >gcloud app browse
+
+* configure the GCP firewall as required
